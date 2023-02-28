@@ -1,1 +1,1 @@
-![Something](https://placehold.co/300x50/slategray/white?text=Honestly,+Kinda+Cool)
+![Something](https://placehold.co/350x50/slategray/white?text=Honestly,+Kinda+Cool)
