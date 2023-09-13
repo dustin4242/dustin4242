@@ -1,24 +1,6 @@
 <h3>About Me:</h3>
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300">
-<foreignObject width="100%" height="100%">
-<div>
 
-<style>
-    .container {
-        display:flex;
-        justify-content: center;
-        align-items: center;
-    }
-</style>
-<div class="container">
-<img src="./see4x.png" height="200px"/>
-
-![Something](https://placehold.co/600x100@3x/darkslateblue/mistyrose?text=dustin4242)
-![Something](https://placehold.co/600x100@3x/darkslategray/mistyrose?text=Just+a+dude+who+programs+for+fun.&font=lora)
-</div>
-</div>
-</foreignObject>
-</svg>
+<svg src ="svg.svg" />
 
 <h3>Current Projects:</h3>
 
