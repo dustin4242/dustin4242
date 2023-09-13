@@ -3,8 +3,8 @@
 <img src="./see4x.png" height="200px"/>
 <div>
 
-![Something](https://placehold.co/700x100@3x/darkslateblue/mistyrose?text=dustin4242)
-![Something](https://placehold.co/700x100@3x/darkslategray/mistyrose?text=Just+a+dude+who+programs+for+fun.&font=lora)
+![Something](https://placehold.co/600x100@3x/darkslateblue/mistyrose?text=dustin4242)
+![Something](https://placehold.co/600x100@3x/darkslategray/mistyrose?text=Just+a+dude+who+programs+for+fun.&font=lora)
 </div>
 </div>
 
