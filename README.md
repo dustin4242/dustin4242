@@ -1,6 +1,6 @@
 <h3>About Me:</h3>
 <div>
-<img src="./see4x.png" height="100px"/>
+<img src="./see4x.png" height="200px"/>
 <div>
 
 ![Something](https://placehold.co/700x100@3x/darkslateblue/mistyrose?text=dustin4242)
