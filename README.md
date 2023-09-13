@@ -1,6 +1,14 @@
 <h3>About Me:</h3>
 
+<<<<<<< HEAD
 ![ABOUTME](ABOUTME.png)
+=======
+<img src="./see4x.png" height="200px"/>
+<div height="200px" width="600px">
+<img src="https://placehold.co/590x100@3x/darkslateblue/mistyrose?text=dustin4242" />
+<img src="https://placehold.co/590x100@3x/darkslategray/mistyrose?text=Just+a+dude+who+programs+for+fun.&font=lora" />
+</div>
+>>>>>>> 776e2633b5119233add4f0d5a3dc56b323ecf051
 
 <h3>Current Projects:</h3>
 
