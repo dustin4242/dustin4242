@@ -1,6 +1,6 @@
 <h3>About Me:</h3>
 
-![ABOUTME](ABOUTME.png)
+![ABOUTME]("https://raw.githubusercontent.com/dustin4242/dustin4242/main/ABOUTME.png")
 
 <h3>Current Projects:</h3>
 
