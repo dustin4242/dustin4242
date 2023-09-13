@@ -1,6 +1,8 @@
 <h3>About Me:</h3>
 
-![svg](svg.svg)
+<img src="./see4x.png" />
+<img src="https://placehold.co/600x100@3x/darkslateblue/mistyrose?text=dustin4242" />
+<img src="https://placehold.co/600x100@3x/darkslategray/mistyrose?text=Just+a+dude+who+programs+for+fun.&font=lora" />
 
 <h3>Current Projects:</h3>
 
