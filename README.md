@@ -1,6 +1,6 @@
 <h3>About Me:</h3>
 
-![svg]("./svg.svg")
+![svg]("svg.svg")
 
 <h3>Current Projects:</h3>
 
