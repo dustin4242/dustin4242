@@ -1,11 +1,11 @@
 <h3>About Me:</h3>
 <div>
 <img src="./see4x.png" height="100px"/>
-
 ![Something](https://placehold.co/600x100@3x/darkslateblue/mistyrose?text=dustin4242)
-</div>
 
 ![Something](https://placehold.co/800x100@3x/darkslategray/mistyrose?text=Just+a+dude+who+programs+for+fun.&font=lora)
+</div>
+
 
 <h3>Current Projects:</h3>
 
