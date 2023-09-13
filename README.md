@@ -1,6 +1,6 @@
 <h3>About Me:</h3>
 
-<svg src ="svg.svg" />
+<svg src ="./svg.svg" />
 
 <h3>Current Projects:</h3>
 
